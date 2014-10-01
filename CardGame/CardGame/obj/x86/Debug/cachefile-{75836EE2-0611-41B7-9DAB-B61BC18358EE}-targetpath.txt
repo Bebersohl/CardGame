@@ -1,0 +1,10 @@
+Content\explosions.xnb
+Content\cards.xnb
+Content\bg_v1.xnb
+Content\menu_v1.xnb
+Content\SpriteFont1.xnb
+Content\cardsHighlighted.xnb
+Content\SpriteFont2.xnb
+Content\bg_v2.xnb
+Content\cardsHighlighted_V2.xnb
+Content\cardsHighlighted_V3.xnb

@@ -1,0 +1,16 @@
+c:\users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\brand_000\Documents\Visual Studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\explosions.xnb
+C:\Users\brand_000\Documents\Visual Studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\cards.xnb
+C:\Users\brand_000\Documents\Visual Studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\bg_v1.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\obj\x86\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\menu_v1.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\cardsHighlighted.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\bg_v2.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\cardsHighlighted_V2.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\Content\cardsHighlighted_V3.xnb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\CardGame.exe
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\bin\x86\Debug\CardGame.pdb
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\obj\x86\Debug\CardGame.exe
+C:\Users\brand_000\documents\visual studio 2012\Projects\CardGame\CardGame\CardGame\obj\x86\Debug\CardGame.pdb

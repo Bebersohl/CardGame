@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGame", "CardGame\CardGame\CardGame.csproj", "{E20CD6B3-E75C-40F3-A471-7C2AEF613AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CradGameContent", "CardGame\CardGameContent\CradGameContent.contentproj", "{75836EE2-0611-41B7-9DAB-B61BC18358EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20CD6B3-E75C-40F3-A471-7C2AEF613AD7}.Debug|x86.ActiveCfg = Debug|x86
+		{E20CD6B3-E75C-40F3-A471-7C2AEF613AD7}.Debug|x86.Build.0 = Debug|x86
+		{E20CD6B3-E75C-40F3-A471-7C2AEF613AD7}.Release|x86.ActiveCfg = Release|x86
+		{E20CD6B3-E75C-40F3-A471-7C2AEF613AD7}.Release|x86.Build.0 = Release|x86
+		{75836EE2-0611-41B7-9DAB-B61BC18358EE}.Debug|x86.ActiveCfg = Debug|x86
+		{75836EE2-0611-41B7-9DAB-B61BC18358EE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
